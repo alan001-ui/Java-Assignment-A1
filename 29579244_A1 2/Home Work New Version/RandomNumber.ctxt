@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\n\ Generate\ random\ from\ 1\ to\ max.\n\n\ @author\ Shiyang\ Nie\n\ @version\ 2020.05.07\n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\n\ default\ constructor\ for\ obejects\ of\ class\ randomNumber.\n
+comment2.params=maximumValue
+comment2.target=RandomNumber(int)
+comment2.text=\n\ non-default\ constructor\ for\ obejects\ of\ class\ randomNumber.\n
+comment3.params=
+comment3.target=int\ getMaximumValue()
+comment3.text=\n\ return\ random\ number\ maximumValue.\n
+comment4.params=maximumValue
+comment4.target=void\ setMaximumValue(int)
+comment4.text=\n\ receive\ random\ number\ maximumValue.\n
+comment5.params=maximumValue
+comment5.target=int\ generateRandomNumber(int)
+comment5.text=\n\ generate\ number\ range\ from\ 1\ to\ maximumValue.\n
+numComments=6
